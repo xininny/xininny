@@ -1,4 +1,4 @@
-<!--내용 부분-->
+ <!--내용 부분-->
 <h3 align="center">🧸 About Me 🧸</h3>
 <div align="center">
   🎓 <strong>성균관대학교 석사</strong> (Master's Student at Sungkyunkwan University) <br>
