@@ -1,11 +1,12 @@
 <!--내용 부분-->
-<h3 align="center">📚 About Me 📚</h3>
+<h3 align="center">🧸 About Me 🧸</h3>
 <div align="center">
   🎓 <strong>성균관대학교 석사</strong> (Master's Student at Sungkyunkwan University) <br>
   💻 Security AI Enthusiast <br>
   🚀 Always learning and exploring new technologies! <br>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=xininny&show_icons=true&theme=radical" />
+[![xininny's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xininny&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/xininny/github-readme-stats#gh-dark-mode-only)
+[![xininny's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=xininny&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/xininny/github-readme-stats#gh-light-mode-only)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
