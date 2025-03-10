@@ -7,7 +7,7 @@
 </div>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=xininny&count_private=true&custom_title=xininny's%20github%20👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=xininny&count_private=true&custom_title=xininny's%20github%20✨&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff" alt="GitHub Stats">
 </a>
 
 
