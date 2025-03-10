@@ -6,7 +6,8 @@
   🚀 Always learning and exploring new technologies! <br>
 </div>
 <br>
-[![xininny's github stats](https://github-readme-stats.vercel.app/api?username=xininny&count_private=true&custom_title=xininny's&nbsp;github&nbsp;✨&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=YebinKim&count_private=true&custom_title=Mumani's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YebinKim&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">✨ Tech Stack ✨</h3>
 <div align="left">
