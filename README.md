@@ -5,8 +5,8 @@
   💻 Security AI Enthusiast <br>
   🚀 Always learning and exploring new technologies! <br>
 </div>
-![xininny's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xininny&show_icons=true&theme=dark#gh-dark-mode-only)(https://github.com/xininny/github-readme-stats#gh-dark-mode-only)
-![xininny's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=xininny&show_icons=true&theme=default#gh-light-mode-only)(https://github.com/xininny/github-readme-stats#gh-light-mode-only)
+[![xininny's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xininny\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![xininny's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=xininny\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
