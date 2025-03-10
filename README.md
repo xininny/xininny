@@ -6,11 +6,9 @@
   🚀 Always learning and exploring new technologies! <br>
 </div>
 <br>
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=xininny&show_icons=true&theme=holi" media="(prefers-color-scheme: holi)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=xininny&show_icons=true&theme=light" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=xininny&show_icons=true&theme=default" />
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xininny&show_icons=true&theme=holi#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xininny&show_icons=true&theme=light#gh-light-mode-only)
+
 
 <h3 align="left">✨ Tech Stack ✨</h3>
 <div align="left">
